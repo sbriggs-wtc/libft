@@ -1,2 +1,2 @@
 # libft
-Complete
+A library of some useful C functions
